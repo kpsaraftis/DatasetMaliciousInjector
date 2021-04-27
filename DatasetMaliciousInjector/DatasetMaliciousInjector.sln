@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatasetMaliciousInjector", "DatasetMaliciousInjector.csproj", "{B0BBE7CD-96F4-4E5D-A1D9-C157F01AC5CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0BBE7CD-96F4-4E5D-A1D9-C157F01AC5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BBE7CD-96F4-4E5D-A1D9-C157F01AC5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BBE7CD-96F4-4E5D-A1D9-C157F01AC5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BBE7CD-96F4-4E5D-A1D9-C157F01AC5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0A74794-9012-4BC6-9D1E-14E1BBC8EABB}
+	EndGlobalSection
+EndGlobal
